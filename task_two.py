@@ -1,1 +1,1 @@
-# Task 2: Ask for name and print "Hello..." followed by their name, e.g. "Hello John"
+# Task 2: Ask for name and print "Kia ora..." followed by their name, e.g. "Kia ora John"
